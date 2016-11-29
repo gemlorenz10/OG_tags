@@ -1,0 +1,28 @@
+.article-title {
+font:50px black bold;
+font-family: arial;
+}
+
+.article-text{
+font-family: arial;
+margin: 10px;
+padding: 10px;
+}
+img{
+    height: 200px;
+    width: 350px;
+    float:left;
+    margin:10px;
+    padding: 10px;
+}
+
+.article-content{
+    display: inline;
+}
+
+.container{
+    background-color: #f5faff;
+    padding: 10px;
+    margin: 10px;
+    border:1px solid black;
+}
