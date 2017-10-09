@@ -1,2 +1,2 @@
 # OG_tags
-Make you website work with facebook.
+Enable site preview on facebook.
